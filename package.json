@@ -14,7 +14,15 @@
   "author": "Andres Barilin <andresbarilin2014@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VAB-8350/platzi---npm_random_msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VAB-8350/platzi---npm_random_msg/issues"
+  },
+  "homepage": "https://github.com/VAB-8350/platzi---npm_random_msg#readme"
 }
